@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SomeLazyHobo
 - 👀 I’m interested in ... learning Blockchain technology.
 - 🌱 I’m currently learning ... front-end development at Scrimba!
-- 💞️ I’m looking to collaborate on ... front-end developer/cryptocurrency-related projects!
+- 💞️ I’m looking to collaborate on ... front-end/cryptocurrency-related projects!
 - 📫 How to reach me ... https://www.linkedin.com/in/john-v-57586824b/
 
 <!---
